@@ -5,15 +5,28 @@ Portfolio of Monica Evans work
 Check out these websites I have created from ground up. 
 All of these examples are static in desgin because I am using Github pages however as part of the cs50 class I built Victoria's Webpage, My hompage and the DragonCalw site orginally as dynamic websites using Flask. 
 
-My son's website for his youtube channel https://mxw035.github.io/dragonclaw/index.html
+My son's website for his youtube channel. [DragonClaw](https://mxw035.github.io/dragonclaw/index.html)
 
 ### Resonsive Web Design
 
 Below is a link to all of my completed projects and proof of certification for Responsive Web Design 
-https://github.com/mxw035/freecodecamp.git
+[Certification](https://github.com/mxw035/freecodecamp.git)
 
 This is a website assigment I created while working towards my responsive webdesign certification. 
 https://mxw035.github.io/Responsive_web_design_page/index.html
+
+### JavaScript Algorithms and Data Structures 
+
+Below is a link to all of my completed projects and proof of certification for JavaScrip Algorithms and Data Structures 
+[Certification](https://github.com/mxw035/freecodecamp/blob/cca25732c9d450eb377e29f38bae7037721107ce/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification%20_%20freeCodeCamp.org.pdf)
+[Project Folder](https://github.com/mxw035/freecodecamp/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures)
+
+### Front End Development Libraries 
+
+Below is a link to all of my completed projects and proof of certification for Front End Development Libraries
+[Certification](https://github.com/mxw035/freecodecamp/blob/cca25732c9d450eb377e29f38bae7037721107ce/Front%20end%20development%20cert.pdf)
+Below is the link to the projects completed for certification on Code pen 
+[Projects](https://github.com/mxw035/freecodecamp/blob/cca25732c9d450eb377e29f38bae7037721107ce/Front%20End%20Development%20Libraries.md)
 
 ### Harvard Cs50
 
