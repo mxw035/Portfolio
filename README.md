@@ -59,4 +59,5 @@ Project 0: Google Search, Google Image Search, Google Advanced Search
 Project 1: Wiki Project 
 
 #### Rust Rouge Like Tutorial 
+[Thus far](https://github.com/mxw035/rust.git)
 
