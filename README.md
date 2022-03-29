@@ -54,9 +54,9 @@ https://github.com/mxw035/Advent21.git
 
 ### Current Projects 
 #### CS50's Web Programming with Python and JavaScript
-Project 0: Google Search, Google Image Search, Google Advanced Search..
-[Project0](https://mxw035.github.io/cs50-WebPrograming-with-python/)..
-Project 1: Wiki Project 
+Project 0: Google Search, Google Image Search, Google Advanced Search  
+[Project0](https://mxw035.github.io/cs50-WebPrograming-with-python/)  
+Project 1: Wiki Project   
 
 #### Rust Rouge Like Tutorial 
 [Thus far](https://github.com/mxw035/rust.git)
