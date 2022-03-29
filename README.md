@@ -46,7 +46,7 @@ https://mxw035.github.io/Hompage_cs50/
 
 ### Other fun work 
 I also partially competted in Advent 2021 with my husband and some of his coworkers. At this time I have not finished all of the problems because of my dedication
-to Victoria and my class work but I look forward to completing all 50 challenges. I primarly used python to complete the chanllenges. 
+to Victoria and my class work but I look forward to completing all 50 challenges. Thus far I have used python to complete the chanllenges. 
 https://github.com/mxw035/Advent21.git
 
 ### MatLab
