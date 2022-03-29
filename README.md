@@ -51,3 +51,12 @@ https://github.com/mxw035/Advent21.git
 
 ### MatLab
 [MATLAB Onboard Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=cdf7c1f6-9921-4403-baeb-5b686ecc6df6&)
+
+### Current Projects 
+#### CS50's Web Programming with Python and JavaScript
+Project 0: Google Search, Google Image Search, Google Advanced Search
+[Project0](https://mxw035.github.io/cs50-WebPrograming-with-python/)
+Project 1: Wiki Project 
+
+#### Rust Rouge Like Tutorial 
+
