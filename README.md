@@ -20,7 +20,7 @@ This is a website assigment I created while working towards my responsive webdes
 
 ## JavaScript Algorithms and Data Structures (12/2021) [Project Folder](https://github.com/mxw035/freecodecamp/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures) [Certification](https://github.com/mxw035/freecodecamp/blob/cca25732c9d450eb377e29f38bae7037721107ce/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification%20_%20freeCodeCamp.org.pdf)
 
-## Front End Development Libraries (1/24/21) [Projects on Codepen](https://codepen.io/your-work) [Certification](https://github.com/mxw035/freecodecamp/blob/cca25732c9d450eb377e29f38bae7037721107ce/Front%20end%20development%20cert.pdf)
+## Front End Development Libraries (1/24/21) [Projects on Codepen](https://codepen.io/mxw035/pens/public?cursor=ZD0xJm89MCZwPTEmdj01Nzg3OTA3Mw==) [Certification](https://github.com/mxw035/freecodecamp/blob/cca25732c9d450eb377e29f38bae7037721107ce/Front%20end%20development%20cert.pdf)
 ### [Random Quote Machine](https://codepen.io/mxw035/full/XWePdbR)
 ### [Markdown Previewer](https://codepen.io/mxw035/full/wvrQROm)
 ### [Drum Machine](https://codepen.io/mxw035/full/abLPqXp)
