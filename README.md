@@ -6,13 +6,17 @@ Portfolio of Monica Evans work
 #### C weeks 1-5 
 #### Python weeks 6-9
 #### SQL week 7 
-#### HTML CSS weeks 8-11
+#### HTML CSS weeks 8-11 
+##### [Homepage](https://mxw035.github.io/Hompage_cs50/) [Project Folder](https://github.com/mxw035/Hompage_cs50)
+##### [Trivia](https://mxw035.github.io/Cs50-Trivia/) [Project Folder](https://github.com/mxw035/Cs50-Trivia.git)
+##### [Birthdays Project Folder](https://github.com/mxw035/Harvard-cs50/tree/main/week9/birthdays) 
+##### [Finace Project Folder](https://github.com/mxw035/Harvard-cs50/tree/main/week9/finance)
 #### Final Project Week 11 [Victoria's Art Emporium](https://mxw035.github.io/VictoriaAlexander/) 
 
 ## Resonsive Web Design (10/2021) [Project Folder](https://github.com/mxw035/Responsive_web_design_page.git) [Certification](https://github.com/mxw035/freecodecamp.git)
 
 This is a website assigment I created while working towards my responsive webdesign certification. 
-https://mxw035.github.io/Responsive_web_design_page/index.html
+[Luna Lovegood](https://mxw035.github.io/Responsive_web_design_page/index.html)
 
 ## JavaScript Algorithms and Data Structures (12/2021) [Project Folder](https://github.com/mxw035/freecodecamp/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures) [Certification](https://github.com/mxw035/freecodecamp/blob/cca25732c9d450eb377e29f38bae7037721107ce/JavaScript%20Algorithms%20and%20Data%20Structures%20Certification%20_%20freeCodeCamp.org.pdf)
 
@@ -26,7 +30,7 @@ https://mxw035.github.io/Responsive_web_design_page/index.html
 ## My own Projects 
 ### [Advent of Code 2021](https://github.com/mxw035/Advent21.git) 12/2021
 ### [Dragonclaw Page](https://mxw035.github.io/dragonclaw/) [Project Folder](https://github.com/mxw035/dragonclaw.git) 01/2022
-### [Pyshical Therapy Exercise Generator](https://codepen.io/mxw035/full/dyVreoq) 02/2022
+### [Physical therapy Exercise Generator](https://codepen.io/mxw035/full/dyVreoq) 02/2022
 ### [Gio's App](https://mxw035.github.io/Gios-App-2/index.html) [Project Folder](https://github.com/mxw035/Gios-App-2.git) 02/2022
 ### [Dungeons and Dragons DM App](https://mxw035.github.io/Dungeons_Dragons/) [Project Folder](https://github.com/mxw035/Dungeons_Dragons.git) 02/2022
 ### [MATLAB Onboard Certification](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=cdf7c1f6-9921-4403-baeb-5b686ecc6df6&) 02/2022
