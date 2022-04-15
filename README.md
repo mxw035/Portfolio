@@ -42,7 +42,8 @@ This is a website assigment I created while working towards my responsive webdes
 
 ## Current Projects 
 ### CS50's Web Programming with Python and JavaScript (03/2022 - Current)
-#### [Project 0: Google Search, Google Image Search, Google Advanced Search](https://mxw035.github.io/cs50-WebPrograming-with-python/)  
+#### [Project 0: Google Search, Google Image Search, Google Advanced Search](https://mxw035.github.io/cs50-WebPrograming-with-python/) 
+#### [Lecture 3 Django](https://github.com/mxw035/cs50-Web/tree/main/Lecture%203/Lecture3) Created Lect3App, newyear, tasks
 #### Project 1: Wiki Project   
 
 ### Rust Rouge Like Tutorial (03/2022 - current)
