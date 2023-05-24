@@ -49,3 +49,9 @@ This is a website assigment I created while working towards my responsive webdes
 ### Rust Rouge Like Tutorial (03/2022 - current)
 [Thus far](https://github.com/mxw035/rust.git)
 
+## NAU Completed Courses and Certifications 
+### NAU Pathway to Excellence 2023
+#### Working Writting and Artificial Intelligence (5/18/23)
+#### HR Solutions Team - Services Overview (5/22/23)
+
+
